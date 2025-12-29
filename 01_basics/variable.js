@@ -8,4 +8,4 @@ let accountState;// in this we declared variable but didn't assigned any value s
 // accountId = 334455; // not allowed
 console.log(accountId);
 
-console.table([accountId, accountEmail, accountPassword, accountCity, accountState]);
+console.table([accountId, accountEmail, accountPassword, accountCity]);
