@@ -180,3 +180,5 @@ let obj2 = obj;
 obj2.name = "Rohan";
 
 console.log(obj);
+
+console.log(typeof obj)
