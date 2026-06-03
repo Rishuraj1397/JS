@@ -29,8 +29,14 @@ The main goal of this repository is to:
 
 ## Folder Structure
 
-bash id="myvdpx" javascript/ │ ├── basics/ ├── loops/ ├── functions/ ├── arrays/ ├── objects/ ├── dom/ └── projects/ 
-
+javascript/
+│
+├── README.md
+├── index.js
+├── basics.js
+├── operators.js
+├── loops.js
+└── functions.js
 ## How to Run
 
 Make sure Node.js is installed on your system.
