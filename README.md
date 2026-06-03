@@ -27,29 +27,6 @@ The main goal of this repository is to:
 - Build small projects
 - Strengthen problem-solving skills
 
-## Folder Structure
-
-javascript/
-│
-├── README.md
-├── index.js
-├── basics.js
-├── operators.js
-├── loops.js
-└── functions.js
-## How to Run
-
-Make sure Node.js is installed on your system.
-
-Run any JavaScript file using:
-
-bash id="ls3o0m" node filename.js 
-
-Example:
-
-bash id="f1v39o" node app.js 
-
-## Learning Source
 
 Learning JavaScript from Coder Army.
 
